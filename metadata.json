@@ -1,0 +1,6 @@
+{
+  "name": "Calculus Sci",
+  "description": "An advanced scientific & matrix calculator featuring dynamic calculus/algebra steps, visual regression plotting, Google Drive sync, and an AI Math Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
